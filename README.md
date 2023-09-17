@@ -3,8 +3,7 @@ hsk-levels-test-exam include all of the knowledge points from HSK 1,HSK2,HSK 3,H
 ### Download(Windows,Mac OS)
 https://github.com/LearnLan/hsk-levels-test-exam/releases/
 
-### To purchase
-https://hsktest.xyz/hsk.php
+
 
 #### HSK 1 300 practice questions
 #### HSK 2 600 practice questions
